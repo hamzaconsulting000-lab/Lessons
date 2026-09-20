@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.0/css/all.min.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Currency Converter</h1>
+        <!-- <form class="main">
+
+            <div class="Amount">
+                <div class="label">
+                    <label for="Amount">Amount:</label>
+                </div>
+                <input type="number" placeholder="Enter Amount" id="Amount">
+            </div>
+            <div class="exchange">
+                <div class="From">
+                    <div class="label"> 
+                        <label for="From">From:</label>
+                    </div>
+                    <select name="from" id="fromdropdown">
+
+                    
+
+                    </select>
+                </div>
+                <i class="fa-solid fa-right-left" style="color: rgb(0, 0, 0);"></i>
+                <div class="To">
+                    <div class="label">
+                        <label for="To">To:</label>
+                    </div>
+                    <select name="to" id="todropdown">
+
+                   
+
+                    </select>
+                </div>
+            </div>
+            <div class="exchange">
+                <p>exchange</p>
+            </div>
+            <div class="btn">
+                <button type="submit" class="submit">Convert</button>
+            </div>
+        </form> -->
+        <form class="main">
+
+    <div class="Amount">
+        <label for="Amount">Amount:</label>
+        <input
+            type="number"
+            placeholder="Enter Amount"
+            id="Amount"
+        >
+    </div>
+
+
+    <div class="exchange">
+
+        <div class="From">
+
+            <label for="fromdropdown">From:</label>
+
+            <select name="from" id="fromdropdown"></select>
+
+        </div>
+
+
+        <i class="fa-solid fa-right-left"></i>
+
+
+        <div class="To">
+
+            <label for="todropdown">To:</label>
+
+            <select name="to" id="todropdown"></select>
+
+        </div>
+
+    </div>
+
+
+    <div class="exchange">
+        <p id="result">Result will appear here</p>
+    </div>
+
+
+    <div class="btn">
+        <button type="submit" class="submit">
+            Convert
+        </button>
+    </div>
+
+        </form>
+    </div>
+    <!-- <p id="fact"></p>
+    <button id="fetch-btn">fetch Data</button> -->
+    <script src="script.js"></script>
+</body>
+</html>

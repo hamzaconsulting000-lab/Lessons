@@ -1,0 +1,87 @@
+javascript classes
+
+math 
+
+example:
+
+"Method"
+
+math.random();
+
+it generates a random number from 0 ro 1
+
+"Method"
+
+math.floor()
+
+The Math.floor() static method always rounds down and 
+returns the largest integer less than or equal to
+a given number.
+
+
+//                Requests&Response
+
+
+HTTP verbs                // Hyer text transfer protocols
+Response status Code :
+
+Informational Response {100 - 199}
+Successful Response    {200 - 299}
+Redirection Response   {300 - 399}
+Client error Response  {400 - 499}
+Server error Response  {500 - 599}
+
+
+
+//                                Git
+
+commands:
+
+Clone - Cloning a repository on our local machine
+       git clone <-some link->
+
+status - displays the status of the code
+        git status           
+
+
+
+games:
+        "cross the bridge "                                 ,
+        " town of magic "                                   ,
+        " living with tsunade "                             ,
+        " a hard tale "                                     ,
+        " fuckout "                                         ,
+        " tales of home "                                   ,
+        " welcome to the city "                             ,
+        " urban heat "                                      ,
+        " kingdom desire of the nsfw king "                 ,
+        " fertile grove "                                   ,
+        " a small village "                                 ,
+        " a small home "                                    ,
+        " my stepsister is a futanari "                     ,
+        " sex village "                                     ,
+        " twisted world "                                   ,
+        " peachy sands bay "                                ,
+        " Below Sunshade "                                  ,
+        " Overgrown: Genesis "                              ,
+        " lust-legion "                                     ,
+        " mallowfall-lust "                                 ,
+        " Lust in suburbs "                                 ,
+        " the-last-sovereign "                              ,
+        " love at work "                                    ,
+        " the-manor-whispers-of-lust "                      ,
+        " plowed "                                          ,
+        " room of lust "                                    ,
+        " mystical lust "                                   ,
+        " locked in temptation "                            ,
+        " lustville "                                       ,
+        " lust note "                                       ,
+        " crazy lewd affairs "                              ,
+        " SCHOOL OF LUST "                                  ,
+        " lust inside "                                     ,
+        " lust inside after fire by desire builder "        ,
+        " lust academy "                                    ,
+        " lust epidemic "                                   ,
+        " pure-onyx-february-2024 "                         ,
+        " sins of lust "                                    ,
+        " lust-arcanum "
